@@ -1,13 +1,13 @@
 {
     "loginData": [
         {
-            "email": "sanja.gorgievska@gmail",
-            "password": "#Newuser12#"
+            "email": "",
+            "password": ""
 
         },
         {
             "email": "sanja.gorgievska@gmail.com",
-            "password": "#Newuser12#"
+            "password": ""
         }
     ]
 }
